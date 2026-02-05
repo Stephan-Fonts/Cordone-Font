@@ -1,39 +1,33 @@
-# Cordone Typeface
+Cordone
 
-Cordone is a professional text typeface designed by Stephan Green.
+Version 1.000
+Release Date: 2026
 
-This repository contains the official licensing and legal documentation for Cordone.
+Designed and developed by Stephan Green.
 
----
+DESCRIPTION
+Cordone is a professional text typeface designed for clarity, readability, and
+long-form content. It is suitable for publishing, branding, digital documents,
+websites, and application interfaces.
 
-## License
+INCLUDED FILES
+Cordone-Regular.otf
 
-Cordone is licensed, not sold.
+LICENSE
+Use of Cordone is governed by the End User License Agreement included with this
+package and available via the official Cordone repository.
 
-See:
-legal/EULA.txt
+REDISTRIBUTION
+Redistribution or sharing of font files is prohibited.
 
----
+COMPATIBILITY
+macOS
+Windows
+iOS / iPadOS
+Web and application embedding (with appropriate license)
 
-## Ownership
+CREATION TOOLS
+FontForge
 
-Cordone is the intellectual property of Stephan Green.
-
----
-
-## Legal Documentation
-
-LICENSE Summary:
-legal/LICENSE.txt
-
-Full Commercial License:
-legal/EULA.txt
-
-Copyright Notice:
-legal/COPYRIGHT_NOTICE.txt
-
----
-
-## Contact
-
-Refer to this repository for licensing and official updates.
+OFFICIAL LICENSE AND CONTACT
+https://github.com/Stephan-Fonts/Cordone-Font/tree/main
